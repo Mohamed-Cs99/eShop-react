@@ -19,7 +19,6 @@ Reactify Store is a sleek and responsive eCommerce application built with React.
 - **@tanstack/react-query**
 - **@tanstack/react-query-devtools**
 - **axios**
-- **axois**
 - **formik**
 - **generate-react-cli**
 - **react**
