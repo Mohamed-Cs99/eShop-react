@@ -41,6 +41,7 @@ To get started with Reactify Store, follow these steps:
 2. Navigate to the project directory:
     ```bash
     cd eShop-react
+    cd store 
     ```
 3. Install dependencies:
     ```bash
