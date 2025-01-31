@@ -1,5 +1,9 @@
 # eShop-react
+
+Welcome to my project! You can visit the live site [here](https://trendyshopping.netlify.app).
+
 Reactify Store is a sleek and responsive eCommerce application built with React. It offers users an intuitive shopping experience, including product browsing, cart management, and secure checkout. The project utilizes various modern libraries and tools to ensure a smooth and efficient user interface.
+
 ## Features
 - **Product Listing**: Browse through a wide range of products.
 - **Product Details**: View detailed information about each product.
@@ -53,4 +57,3 @@ To get started with Reactify Store, follow these steps:
 
 ## Contributing
 Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
-
