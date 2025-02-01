@@ -34,7 +34,7 @@ export default function CategoryProudcts() {
                 {
                     data?.map((pr) => (
                         <div className="xl:w-1/4 lg:w-1/2 sm:w-full p-3 border bg-zinc-300 ">
-                            <Link to={`/productdetails/${pr.id}`}>
+                            <Link to={`/productdetails/${pr.id}/${pr.category.name}`}>
                                 <img src={pr.imageCover} className=' w-full ' alt="Product Image" />
                                 <h1 className=' py-3'>{pr.title}</h1>
                                 <div className="priceRating flex justify-around font-mono py-3 ">

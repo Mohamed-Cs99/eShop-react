@@ -16,7 +16,8 @@ export default function useProductDetails() {
         queryKey:['prDetails'], 
         queryFn:getSpecificProduct,
         select:(data)=>data.data.data,
-        staleTime:3000
+        staleTime:1000,
+        refetchInterval:500
         
     })
 

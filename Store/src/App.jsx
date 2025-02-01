@@ -34,6 +34,7 @@ let x = createBrowserRouter([
       { path: "login", element: <Login /> },
       { path: "register", element: <Register /> },
       { path: "products", element: <Guard> <Products /></Guard> },
+      
       { path: "productdetails/:id/:category", element: <Guard> <ProductDetails/></Guard> },
       { path: "cart", element: <Guard><Cart /></Guard> },
       { path: "categories", element: <Guard><Categories /></Guard> },
